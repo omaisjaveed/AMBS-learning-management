@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Lamb's;Machine Works;;;
+FN:Lamb's Machine Works
+ORG:Lamb's Machine Works
+TEL;TYPE=WORK,VOICE:901-775-0663
+ADR;TYPE=WORK:;;296 East Mallory Avenue;Memphis;TN;38109;USA
+EMAIL:sales@lambsmachineworks.com
+URL:https://www.lambsmachineworks.com
+END:VCARD

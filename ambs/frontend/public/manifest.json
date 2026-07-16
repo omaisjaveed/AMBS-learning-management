@@ -1,0 +1,21 @@
+{
+  "short_name": "Lamb's Machine",
+  "name": "Lamb's Machine Works",
+  "description": "Mid-South's trusted leader in industrial equipment repair and service.",
+  "icons": [
+    {
+      "src": "https://ik.imagekit.io/ofvhaiwug/Lambs-Machine-Works-Logo-Favicon.png.jpg",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://ik.imagekit.io/ofvhaiwug/Lambs-Machine-Works-Logo-Favicon.png.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#1e3a8a",
+  "background_color": "#f8fafc"
+}
